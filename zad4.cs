@@ -9,7 +9,7 @@ while (true)
     }
 
     int n = 0;
-    Console.WriteLine("\nВедите степень");
+    Console.WriteLine("\nВведите степень");
     n = Convert.ToInt32(Console.ReadLine());
 
     for (int j = 0; j <= n; j++)
